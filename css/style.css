@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #ebebeb;
+}
+.conteiner{
+    max-width: 802px;
+    margin: 0 auto;
+    padding: 433px 24px 369px 24px;
+    background: white;
+
+}
+p{
+    font-size: 24pt;
+    font-family: 'Metropolis'  ;
+}
+.text{
+    font-weight: 900;
+}
+.technology{
+    border-radius: 60%;
+    background: #1f2c39;
+}
